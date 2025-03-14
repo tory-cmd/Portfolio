@@ -1,0 +1,149 @@
+
+body {
+    background-color: #D0F0C0;
+}
+
+.navbar {
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+
+}
+.navbar_container {
+
+
+}
+
+#navbar_logo {
+    color: #00A693;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+
+.navbar_menu {
+    text-align: center;
+    list-style: none;
+    align-items: center;
+    display: flex;
+
+}
+
+.navbar_item {
+    color: #00A693;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.navbar_links {
+    align-items: center;
+    justify-content: center;
+    padding: 18px;
+}
+
+.navbar_links:hover {
+
+}
+
+/* Home Section CSS */
+
+.index {
+
+}
+
+.index_container {
+
+}
+
+.index_content h1 {
+    color: #004953;
+
+}
+
+.index_content h2 {
+    color: #004953;
+    text-align: center;
+    font-size: 30px;
+}
+
+.index_content p {
+    color: #004953;
+}
+
+table {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    position: relative;
+    border-collapse: collapse; 
+    width: 100%;
+    height: 550px;
+    color: #004953;
+  }
+
+table caption {
+    font-size: 20px;
+}
+
+.index_weekly_pet h2 {
+    text-align: center;
+    color: #004953;
+
+
+}
+
+/* About Section CSS */
+
+.about_us {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+    margin: 30px;
+    font-size: 18px;
+}
+
+.footer {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+/* Applications Section CSS */
+
+.applications {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Donations Section CSS */
+
+.donations {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+/* Contact US Section CSS */
+
+.contact_us  {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+/* Meet the Team Section CSS */
+
+.meet_the_team {
+    color: #004953;
+    text-align: center;
+    justify-content: center;
+    
+}
